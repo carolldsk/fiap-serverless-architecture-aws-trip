@@ -1,0 +1,9 @@
+/Users/camilabressansilva/eclipse-workspace/fiap-serverless-architecture-aws-trip/src/main/java/br/com/iwe/handler/GetTripsByCity.java
+/Users/camilabressansilva/eclipse-workspace/fiap-serverless-architecture-aws-trip/src/main/java/br/com/iwe/handler/GetTripsByCountry.java
+/Users/camilabressansilva/eclipse-workspace/fiap-serverless-architecture-aws-trip/src/main/java/br/com/iwe/dao/DynamoDBManager.java
+/Users/camilabressansilva/eclipse-workspace/fiap-serverless-architecture-aws-trip/src/main/java/br/com/iwe/handler/CreateTripRecord.java
+/Users/camilabressansilva/eclipse-workspace/fiap-serverless-architecture-aws-trip/src/main/java/br/com/iwe/model/HandlerResponse.java
+/Users/camilabressansilva/eclipse-workspace/fiap-serverless-architecture-aws-trip/src/main/java/br/com/iwe/model/HandlerRequest.java
+/Users/camilabressansilva/eclipse-workspace/fiap-serverless-architecture-aws-trip/src/main/java/br/com/iwe/dao/TripRepository.java
+/Users/camilabressansilva/eclipse-workspace/fiap-serverless-architecture-aws-trip/src/main/java/br/com/iwe/model/Trip.java
+/Users/camilabressansilva/eclipse-workspace/fiap-serverless-architecture-aws-trip/src/main/java/br/com/iwe/handler/GetTripsByPeriod.java
